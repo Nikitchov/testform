@@ -1,0 +1,40 @@
+.header {
+    font-weight: 600;
+    font-size: 28px;
+    color: #21262E;
+    padding: 3;
+    font-family: 'Inter';
+    text-align: center;
+    margin-bottom: 56px;
+}
+
+.icon {
+    position: absolute;
+    margin-left: 480px;
+    transform: translateY(150%);
+
+}
+
+.button {
+    color: white;
+}
+
+.input {
+    background-color: white;
+    width: 535px;
+    height: 54px;
+    margin-top: 20px;
+
+}
+
+.link {
+    text-decoration: none;
+    color: #1900D5;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 50px;
+}
+
+.p {
+    color: red;
+}
